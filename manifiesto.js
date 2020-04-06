@@ -5,7 +5,7 @@
   "display": "standalone",
   "icons": [
     {
-      "src": "C:/Users/Wilder/Desktop/Documentos/Aplicativo Movil/icono.png",
+      "src": "https://raw.githubusercontent.com/WilderBuleje/hello-world/master/icono.png",
       "sizes": "128x128",
       "types": "image/png"
     }
