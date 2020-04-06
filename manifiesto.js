@@ -2,6 +2,7 @@
   "name": "My App",
   "short_name": "My App",
   "lang": "en-US",
+  "start_url": "https://wilder-buleje.shinyapps.io/Coronavirus/_w_74c6e750/",
   "display": "standalone",
   "icons": [
     {
