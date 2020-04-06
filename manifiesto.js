@@ -7,7 +7,7 @@
   "icons": [
     {
       "src": "https://raw.githubusercontent.com/WilderBuleje/hello-world/master/icono.png",
-      "sizes": "128x128",
+      "sizes": "314x157",
       "types": "image/png"
     }
   ]
